@@ -1,0 +1,45 @@
+img.icon {
+       width : 90px ;
+       margin : 0 ;
+       position : relative ;
+       right : 150px ;
+
+     }
+     .title {
+       margin : 0 ;
+       position : absolute ;
+       left : 450px ;
+       top :40px ;
+     }
+
+     ul {
+       color : blue ;
+     }
+
+     ul p {
+       color :black ;
+     }
+     body {
+       font-size : 20px;
+       width : 50% ;
+
+       margin : 0 auto ;
+       align-items: center;
+       justify-content: center;
+     }
+
+
+     img {
+       width : 800px ;
+        padding  : 30px  ;
+        align-items: center;
+        justify-content: center;
+
+     }
+
+
+
+     a {
+       text-decoration: none;
+       
+     }
